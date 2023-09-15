@@ -63,11 +63,6 @@ Experienced technical writer with 6+ years in automotive, military, and software
 - **Bachelor of Arts - English:** Oakland University (2016)
 - **Associate's - English:** Macomb Community College (2010)
 
-## Portfolio
-
-- **Web Portfolio:** [carburetor-102.vercel.app](https://carburetor-102.vercel.app/)
-- **GitHub Repository:** [github.com/MBStriker/Carburetor-102](https://github.com/MBStriker/Carburetor-102)
-
 ## Accolades & Awards
 
 - **Eagle Scout:** Troop 157, Boy Scouts of America, 2006
