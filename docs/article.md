@@ -64,4 +64,4 @@ IoT Yoda says: “Working inside bubbles does not a team make.”
 
 Branch out a bit. If team members can parlay the inner functions and issues of other teams, they can more easily understand the solutions that need to be made. Have a day each month where team members can work cross-functionally with other teams. This is more than just an empathy exercise. It opens eyes, solves problems, allows for innovation, improves trust, and boosts everyone’s knowledge. With everything else, empathy is power.
 
-Implementing the initiatives above, especially cross-team communication can help you integrate your software, firmware, and hardware teams. By achieving integration, you’ll help solve many problems before they start, and bring the rest of the product organization with you.
+Implementing the initiatives above, especially cross-team communication can help you integrate your software, firmware, and hardware teams. By achieving integration, you’ll help solve many problems before they start, and bring the rest of the product organization with you. 
