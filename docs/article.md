@@ -9,7 +9,9 @@ Directors and managers are in charge of team organization, ensuring their teams 
 This combined problem causes:
 
 ● Reiterating on things that waste time and company resources. This can be frustrating for everyone, on every team.
+
 ● Traditional problems with waterfall development (investing in something that doesn’t work).
+
 ● The production line can stop. How do you solve a problem when you don’t know whose fault it is?
 
 ## Hardware & Software Engineers’ Mindsets are Different
